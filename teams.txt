@@ -1,0 +1,30 @@
+0. Boston Celtics
+1. Brooklyn Nets
+2. New York Knicks
+3. Philadelphia Sixers
+4. Toronto Raptors
+5. Chicago Bulls
+6. Cleveland Cavaliers
+7. Detroit Pistons
+8. Indiana Pacers
+9. Milwaukee Bucks
+10. Atlanta Hawks
+11. Charlotte Hornets
+12. Miami Heat
+13. Orlando Magic
+14. Washington Wizards
+15. Denver Nuggets
+16. Minnesota Timberwolves
+17. Oklahoma City Thunder
+18. Portland Trail Blazers
+19. Utah Jazz
+20. Golden State Warriors
+21. Los Angeles Clippers
+22. Los Angeles Lakers
+23. Phoenix Suns
+24. Sacramento Kings
+25. Dallas Mavericks
+26. Houston Rockets
+28. Memphis Grizzlies
+29. New Orleans Pelicans
+30. San Antonio Spurs
